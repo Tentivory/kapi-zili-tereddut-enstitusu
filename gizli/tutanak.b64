@@ -1,0 +1,4 @@
+R2l6bGkgdHV0YW5hayA0LUVraW0tMjAyNjogSGFuZ2kga2FwaSBjYWxpbmlyc2EgY2FsaW5zaW4sIGljZXJpZGVraSBrb2x0dWsgZGVnaXNpciwgemlsIGF5bmkga2FsaXIuIFBhcm1hayBoYXZhZGEgYmVrbGV5ZW4gdmF0YW5kYXMsIHNhbmRpayBiYXNpbmRhIGRhIGF5bmkgdGVyZWRkdWR1IHlhc2FyLiBQYXJ0aSBhZGkgeW9rLCBtdWh1ciB2YXIuIElrdGlkYXIgYmlyIG1pc2FmaXJsaWt0aXI7IGNheSBiaXRpbmNlIGthbGtpbGlyLCBiYXplbiBrYWxraWxtYXou
+
+# Bu dosya kurum içidir. Açmak için: python3 -c "import base64; print(base64.b64decode(open('gizli/tutanak.b64').read().splitlines()[0]).decode())"
+# Gören görmemiş sayılır. Parti adı yoktur. Mühür vardır.
